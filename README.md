@@ -13,11 +13,29 @@ Welcome to my GitHub profile! I'm a passionate developer with a B.Tech in Electr
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** Python, C++
-- **Frameworks & Libraries:** TensorFlow, Keras, PyTorch, Scikit-Learn
-- **Tools:** Git, DVC, Docker, Jupyter Notebook, VSCode
-- **Web Technologies:** HTML, CSS
-- **Databases:** MySQL
+- **Programming Languages:**
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) [Python](https://www.python.org/)
+  - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) [C++](https://isocpp.org/)
+
+- **Frameworks & Libraries:**
+  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) [TensorFlow](https://www.tensorflow.org/)
+  - ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) [Keras](https://keras.io/)
+  - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) [PyTorch](https://pytorch.org/)
+  - ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) [Scikit-Learn](https://scikit-learn.org/)
+
+- **Tools:**
+  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) [Git](https://git-scm.com/)
+  - ![DVC](https://img.shields.io/badge/-DVC-945DD6?logo=dataversioncontrol&logoColor=white) [DVC](https://dvc.org/)
+  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) [Docker](https://www.docker.com/)
+  - ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) [Jupyter](https://jupyter.org/)
+  - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) [VSCode](https://code.visualstudio.com/)
+
+- **Web Technologies:**
+  - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+- **Databases:**
+  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) [MySQL](https://www.mysql.com/)
 
 ## 📈 GitHub Stats
 
