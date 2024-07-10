@@ -1,6 +1,6 @@
 # Hi there, I'm Agradwip Karmakar 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a B.Tech in Electrical Engineering, constantly exploring new technologies and working on exciting projects.
+Welcome to my GitHub profile! I'm a passionate developer with a B.Tech in Electrical Engineering from National Institute of Technology Durgapur, constantly exploring new technologies and working on exciting projects.
 
 ## 🚀 About Me
 
@@ -13,12 +13,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a B.Tech in Electr
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** Python, C++, Java
-- **Web Technologies:** HTML, CSS, JavaScript
+- **Programming Languages:** Python, C++
 - **Frameworks & Libraries:** TensorFlow, Keras, PyTorch, Scikit-Learn
-- **Tools:** Git, Docker, Jupyter, VSCode
-- **Databases:** MySQL, PostgreSQL
-- **Others:** MATLAB, Simulink
+- **Tools:** Git, DVC, Docker, Jupyter Notebook, VSCode
+- **Web Technologies:** HTML, CSS
+- **Databases:** MySQL
 
 ## 📈 GitHub Stats
 
@@ -27,8 +26,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a B.Tech in Electr
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Website/Blog](https://yourwebsite.com)
+- [Twitter]([https://twitter.com/yourhandle](https://x.com/Agradwip2002))
+- [Personal Website/Blog](https://karmakaragradwip02.github.io/portfolio-agradwip/)
 
 ## 📂 Featured Projects
 
