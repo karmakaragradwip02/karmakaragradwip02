@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a B.Tech in Electr
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter]([https://twitter.com/yourhandle](https://x.com/Agradwip2002))
+- [Twitter](https://x.com/Agradwip2002)
 - [Personal Website/Blog](https://karmakaragradwip02.github.io/portfolio-agradwip/)
 
 ## 📂 Featured Projects
