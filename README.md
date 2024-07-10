@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a B.Tech in Electr
 
 ## 📂 Featured Projects
 
-- [Rice Image Detection CNN]([https://github.com/karmakaragradwip02/rice_image_detection_cnn]): Brief description of the project.
+- [Rice Image Detection CNN](https://github.com/karmakaragradwip02/rice_image_detection_cnn): Brief description of the project.
 - [Project Name](https://github.com/karmakaragradwip02/projectname): Brief description of the project.
 - [Project Name](https://github.com/karmakaragradwip02/projectname): Brief description of the project.
 
