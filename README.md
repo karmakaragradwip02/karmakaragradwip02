@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a B.Tech in Electr
 
 ## 📂 Featured Projects
 
-- [Rice Image Detection CNN](https://github.com/karmakaragradwip02/rice_image_detection_cnn): This project is based upon single class image recognition. The model is based upon Convolutional Neural Network.
+- [Rice Image Detection CNN](https://github.com/karmakaragradwip02/rice_image_detection_cnn): This project is based upon multi class image classification. The model is based upon Convolutional Neural Network.
 - [Intel Image Prediction](https://github.com/karmakaragradwip02/intel_image_prediction):
 - [Sequence Classification](https://github.com/karmakaragradwip02/sequence_classification-MLFlow-): This repo is based upon a simple test of integration of MLflow with Dagshub for an LLM project.
 
