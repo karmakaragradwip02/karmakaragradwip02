@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a B.Tech in Electr
 - **Programming Languages:** Python, C++
 - **Frameworks & Libraries:** TensorFlow, Keras, PyTorch, Scikit-Learn
 - **Tools:** Git, DVC, Docker, Jupyter Notebook, VSCode
-- **Web Technologies:** HTML, CSS
+- **Web Technologies:** HTML, CSS, Flask, Streamlit
 - **Databases:** MySQL
 
 ## 📈 GitHub Stats
