@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a B.Tech in Electr
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various AI and machine learning projects.
+- 🔭 I’m currently working on Multiobject Tracking Algorithms.
 - 🌱 I’m currently learning advanced TensorFlow techniques.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to AI, ML, and Electrical Engineering.
